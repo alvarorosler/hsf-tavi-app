@@ -14,6 +14,8 @@ st.markdown("""
 
 st.title("🫀 Escore HSF-TAVI")
 st.subheader("Ferramenta de IA para Estratificação de Risco")
+st.caption("Cientista de Dados: Álvaro Rösler / Diretor Médico: Dr. Fernando Lucchese")
+st.caption("Centro de Pesquisas em Cirurgia Cardiovascular - Hospital São Francisco")
 st.markdown("---")
 
 # --- ENTRADA DE DADOS ---
@@ -90,5 +92,5 @@ st.sidebar.markdown(f"""
 - **Especificidade:** 92,7%
 - **VPN:** 95,0%
 ---
-*Desenvolvido via Machine Learning (LASSO) para predição de mortalidade hospitalar na TAVI.*
+* Desenvolvido via Machine Learning para predição de mortalidade hospitalar associada à realização de TAVI.*
 """)
