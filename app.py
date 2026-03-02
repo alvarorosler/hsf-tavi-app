@@ -12,10 +12,10 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-st.title("🫀 Escore HSF-TAVI")
+st.title("🫀 Escore HSF-TAVI 🫀")
 st.subheader("Ferramenta de IA para Estratificação de Risco")
-st.caption("Cientista de Dados: Álvaro Rösler / Diretor Médico: Dr. Fernando Lucchese")
-st.caption("Centro de Pesquisas em Cirurgia Cardiovascular - Hospital São Francisco")
+st.caption("Cientista de Dados: Álvaro Rösler, DS, Msc / Diretor Médico: Dr. Fernando Lucchese")
+st.caption("🏥 Centro de Pesquisas em Cirurgia Cardiovascular - Hospital São Francisco 🏥")
 st.markdown("---")
 
 # --- ENTRADA DE DADOS ---
