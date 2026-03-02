@@ -65,7 +65,7 @@ st.metric(label="Pontuação Total HSF-TAVI", value=f"{pontos} pontos")
 if pontos <= 4:
     cor_fundo = "#d4edda" # Verde
     titulo_risco = "BAIXO RISCO"
-    frase_mortalidade = "Mortalidade estimada em torno de 3%"
+    frase_mortalidade = "Mortalidade estimada em até 3%"
     cor_texto = "#155724"
 elif pontos <= 8:
     cor_fundo = "#fff3cd" # Amarelo
